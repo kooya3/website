@@ -2,13 +2,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap");
 
 /* other css file imports */
-@import url("sections/header.css");
+/* @import url("sections/header.css");
 @import url("sections/hero.css");
 @import url("sections/about.css");
 @import url("sections/popular.css");
 @import url("sections/trending.css");
 @import url("sections/subscribe.css");
-@import url("sections/footer.css");
+@import url("sections/footer.css"); */
 
 /* CSS variables for reusablity across all files (including above imported) */
 :root {
