@@ -92,3 +92,7 @@
   .about-us {
     flex-direction: column;
   }
+
+  .about-us__image {
+    flex-direction: row;
+  }
