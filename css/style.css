@@ -60,9 +60,18 @@
     font-size: 18px;
     font-weight: 400;
     font-family: var(--plus-jakarta-sans);
-  
     color: var(--primary-color);
     opacity: 0.8;
-  
     letter-spacing: -0.01em;
+  }
+
+  .sushi__description {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: var(--plus-jakarta-sans);
+    line-height: 36px;
+    letter-spacing: -0.01em;
+    color: var(--secondary-color);
+    opacity: 0.8;
+    margin: 32px 0px;
   }
