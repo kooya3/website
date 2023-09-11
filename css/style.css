@@ -226,3 +226,40 @@
   }
 }
 /* END: popular media queries */
+
+/* START: subscribe media queries */
+@media screen and (max-width: 550px) {
+  .subscription {
+    padding: 64px 32px;
+  }
+
+  .subscription h2 {
+    font-size: 68px;
+    line-height: 100px;
+  }
+
+  .subscription__form {
+    flex-direction: column;
+    gap: 20px;
+
+    min-width: 100%;
+    border-radius: 20px;
+    padding: 0;
+
+    border: none;
+  }
+
+  .subscription__form input {
+    min-height: 50px;
+
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    padding: 10px 20px;
+    border-radius: 30px;
+  }
+
+  .subscription__form button {
+    min-width: 100%;
+  }
+}
+/* END: subscribe media queries */
+
