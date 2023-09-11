@@ -86,3 +86,9 @@
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
 }
+
+/* START: about us media queries */
+@media screen and (max-width: 1024px) {
+  .about-us {
+    flex-direction: column;
+  }
