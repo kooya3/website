@@ -180,3 +180,9 @@
     transform: matrix(1, 0.05, 0, 1.25, 0, 0) !important;
   }
 }
+@media screen and (max-width: 750px) {
+  .hero-image h2 {
+    font-size: 70px;
+    line-height: 90px;
+  }
+}
