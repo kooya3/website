@@ -112,3 +112,7 @@
     flex-direction: column;
   }
 
+  .about-us__image-sushi3 {
+    border-bottom: 8px solid var(--color-creamson);
+    border-right: none;
+  }
