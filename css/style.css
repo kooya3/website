@@ -130,3 +130,11 @@
     height: 160px;
     object-fit: contain;
   }
+
+  .about-us__image div {
+    padding: 32px;
+  }
+
+  .about-us__button {
+    top: 44%;
+  }
