@@ -18,3 +18,12 @@ const trendingSushis = [
     'Uramaki Sushi',
     'Inari Sushi'
 ];
+
+const trendingDrinks = [
+    "Oruncha",
+    "Ofukucha",
+    "Sakura Tea",
+    "Kombu-cha",
+    "Aojiru",
+    "Mugicha",
+]
