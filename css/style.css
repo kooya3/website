@@ -96,3 +96,9 @@
   .about-us__image {
     flex-direction: row;
   }
+
+  .about-us__image-sushi3 {
+    border-bottom: none;
+    border-right: 8px solid var(--color-creamson);
+  }
+
