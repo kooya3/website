@@ -286,3 +286,15 @@
     display: none;
   }
 }
+
+@media screen and (max-width: 550px) {
+  .trending__image img {
+    width: 70%;
+    height: 70%;
+  }
+
+  .trending__content {
+    padding: 32px;
+  }
+}
+/* END: trending media queries */
