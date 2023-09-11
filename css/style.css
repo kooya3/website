@@ -116,3 +116,9 @@
     border-bottom: 8px solid var(--color-creamson);
     border-right: none;
   }
+
+  .about-us__button {
+    display: block;
+    top: 47%;
+  }
+}
