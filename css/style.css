@@ -263,3 +263,26 @@
 }
 /* END: subscribe media queries */
 
+/* START: trending media queries */
+@media screen and (max-width: 1024px) {
+  .trending-sushi {
+    flex-direction: column;
+  }
+
+  .trending-drink {
+    flex-direction: column-reverse;
+  }
+
+  .trending__image {
+    width: 100%;
+    background-size: cover;
+  }
+
+  .trending__discover {
+    display: none;
+  }
+
+  .trending__arrow {
+    display: none;
+  }
+}
