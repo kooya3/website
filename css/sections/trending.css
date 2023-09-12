@@ -18,3 +18,12 @@
     justify-content: center;
     align-items: center;
   }
+  .trending__discover p {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: var(--plus-jakarta-sans);
+  
+    text-transform: uppercase;
+    color: #fff;
+  }
+  
