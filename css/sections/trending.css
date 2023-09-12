@@ -27,3 +27,11 @@
     color: #fff;
   }
   
+  .trending-sushi,
+.trending-drinks {
+  width: 100%;
+  min-height: 640px;
+
+  display: flex;
+  flex-direction: row;
+}
