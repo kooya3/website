@@ -48,4 +48,8 @@
     line-height: 23px;
     cursor: pointer;
   }
+  .about-us__button img {
+    object-fit: contain;
+    margin-left: 32px;
+  }
   
