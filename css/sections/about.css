@@ -52,4 +52,10 @@
     object-fit: contain;
     margin-left: 32px;
   }
-  
+  .about-us__content {
+    padding: 64px;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
