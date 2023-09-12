@@ -42,3 +42,9 @@
     line-height: 20px;
     cursor: pointer;
   }
+  .header__menu li img {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+  }
+  
