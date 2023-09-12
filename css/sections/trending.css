@@ -55,3 +55,15 @@
     gap: 12px;
     min-width: 210px;
   }
+  .trending__icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    background-color: var(--primary-color);
+  }
+  
+  .trending__icon img {
+    width: 50%;
+    height: 50%;
+    object-fit: contain;
+  }
