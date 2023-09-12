@@ -4,4 +4,17 @@
     flex-direction: column;
     overflow: hidden;
   }
-  
+  .trending__discover {
+    position: absolute;
+    top: 44%;
+    left: 44%;
+    z-index: 1;
+    width: 160px;
+    height: 160px;
+    border-radius: 100%;
+    background-color: var(--secondary-color);
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
