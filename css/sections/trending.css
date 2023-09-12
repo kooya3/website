@@ -26,12 +26,18 @@
     text-transform: uppercase;
     color: #fff;
   }
-  
+
   .trending-sushi,
 .trending-drinks {
   width: 100%;
   min-height: 640px;
-
   display: flex;
   flex-direction: row;
 }
+.trending__content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 32px 64px;
+  }
