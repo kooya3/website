@@ -24,3 +24,12 @@
     color: #fff;
     opacity: 0.8;
 }
+.header__menu, .header__menu-mobile {
+    padding: 20px;
+    flex: 1.236;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 64px;
+    list-style: none;
+  }
