@@ -1,0 +1,5 @@
+.about-us {
+    display: flex;
+    min-height: 720px;
+    overflow: hidden;
+  }
