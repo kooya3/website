@@ -67,3 +67,11 @@
     height: 50%;
     object-fit: contain;
   }
+  .trending__list p {
+    flex: 1;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--plus-jakarta-sans);  
+    color: var(--secondary-color);
+  }
+  
