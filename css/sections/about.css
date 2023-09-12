@@ -20,4 +20,15 @@
     background-repeat: no-repeat;
     background-size: contain;
   }
+  .about-us__image-sushi2 {
+    background-image: url("../../assets/about_bg2.png")
+  }
+  .about-us__image-sushi3 img {
+    width: 225px;
+    height: 200px;
+  }
   
+  .about-us__image-sushi2 img {
+    width: 240px;
+    height: 160px;
+  }
