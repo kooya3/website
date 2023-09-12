@@ -1,0 +1,5 @@
+.hero {
+    display: flex;
+    min-height: calc(100vh - 74px);
+    overflow: hidden;
+  }
