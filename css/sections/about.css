@@ -11,3 +11,12 @@
     background: var(--color-white);
     position: relative;
   }
+  .about-us__image div {
+    padding: 32px 64px;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
