@@ -47,4 +47,9 @@
     height: 24px;
     object-fit: contain;
   }
+  .header__menu-mobile {
+    display: none;
+    gap: 20px;
+    position: relative;
+  }
   
