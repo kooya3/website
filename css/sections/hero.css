@@ -105,3 +105,8 @@
   gap: 20px;
   background: var(--color-white)
 }
+.hero-content__customer {
+  flex: 1;
+  gap: 10px;
+}
+
