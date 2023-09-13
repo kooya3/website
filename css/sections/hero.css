@@ -46,3 +46,10 @@
     justify-content: center;
     flex-direction: column;
   }
+  .hero-content-info h1 {
+    font-size: 80px;
+    font-weight: 600px;
+    font-family: var(--playfair-display);
+    color: var(--secondary-color);
+  }
+  
