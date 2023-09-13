@@ -109,4 +109,9 @@
   flex: 1;
   gap: 10px;
 }
+.hero-content__customer h4 {
+  font-size: 62px;
+  font-weight: 400;
+  font-family: var(--playfair-display)
+}
 
