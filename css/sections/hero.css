@@ -60,3 +60,11 @@
     font-size: 18px;
     font-weight: 400;
   }
+  .hero-content__buttons {
+    margin: 41px 0 0 41px;
+  
+    display: flex;
+    flex-wrap: wrap;
+    gap: 36px;
+  }
+  
