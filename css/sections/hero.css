@@ -130,3 +130,8 @@
   border-left: 1px solid rgba(2, 2, 2, 0.1);
   min-width: 200px;
 }
+.hero-content__review img {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+}
