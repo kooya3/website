@@ -80,3 +80,15 @@
   font-size: 18px;
   line-height: 23px;
 }
+.hero-content__play-button {
+  border: none;
+  outline: none;
+  background: transparent;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  line-height: 19px;
+  color: var(--black-200);
+  font-family: var(--plus-jakarta-sans);
+  cursor: pointer;
+}
