@@ -62,9 +62,21 @@
   }
   .hero-content__buttons {
     margin: 41px 0 0 41px;
-  
     display: flex;
     flex-wrap: wrap;
     gap: 36px;
   }
-  
+
+  .hero-content__order-button {
+  padding: 20px;
+  border-radius: 36px;
+  min-width: 212px;
+  outline: none;
+  border: none;
+  background: var(--secondary-color);
+  cursor: pointer;
+  color: #fff;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+}
