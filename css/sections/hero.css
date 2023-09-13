@@ -98,3 +98,10 @@
   height: 46px;
   object-fit: contain;
 }
+.hero-content__testimonial {
+  padding: 32px 64px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  background: var(--color-white)
+}
