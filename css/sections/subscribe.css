@@ -1,0 +1,10 @@
+.subscription {
+    padding: 64px;
+    background-color: var(--primary-color);
+    background-image: url('../../assets/subscribe_bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    flex-direction: column;
+    overflow: hidden;
+  }
