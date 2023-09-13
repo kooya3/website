@@ -53,3 +53,10 @@
     color: var(--secondary-color);
   }
   
+  .hero-content-info p {
+    margin: 32px 0 0 32px;
+    font-family: var(--plus-jakarta-sans);
+    color: var(--secondary-color);
+    font-size: 18px;
+    font-weight: 400;
+  }
