@@ -135,3 +135,12 @@
   height: 42px;
   object-fit: contain;
 }
+
+.hero-content__review p {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 32px;
+  font-family: var(--plus-jakarta-sans);
+  color: var(--secondary-color);
+  opacity: 0.8
+}
