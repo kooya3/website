@@ -92,3 +92,9 @@
   font-family: var(--plus-jakarta-sans);
   cursor: pointer;
 }
+.hero-content__play-button img {
+  margin-right: 12px;
+  width: 46px;
+  height: 46px;
+  object-fit: contain;
+}
