@@ -49,3 +49,8 @@
   border: none;
   outline: none;
 }
+
+.subscription__form input::placeholder {
+  color: #fff;
+  opacity: 0.5;
+}
