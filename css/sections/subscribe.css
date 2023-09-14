@@ -8,3 +8,12 @@
     flex-direction: column;
     overflow: hidden;
   }
+  .subscription h2 {
+  font-size: 88px;
+  font-family: var(--playfair-display);
+  font-weight: 600;
+  line-height: 123px;
+
+  color: #fff;
+  text-align: center;
+}
