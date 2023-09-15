@@ -50,4 +50,8 @@
     height: 36px;
     object-fit: contain;
   }
-  
+  .popular-foods__filter-btn.active {
+    background: #fff;
+    color: var(--primary-color)
+  }
+    
