@@ -98,4 +98,11 @@
     background: rgba(255, 255, 255, 0.05);
     border: 1px solid rgba(255, 255, 255, 0.2);
   }
+
+.popular-foods__card-image {
+    width: 110px;
+    height: 84px;
+    object-fit: contain;
+  }
+  
   
