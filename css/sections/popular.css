@@ -104,5 +104,15 @@
     height: 84px;
     object-fit: contain;
   }
+  .popular-foods__card-title {
+    margin-top: 47px;  
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    font-family: var(--playfair-display);
+    color: #fff;
+    text-align: center;
+  }
+  
   
   
