@@ -58,4 +58,12 @@
     background: #fff;
     color: var(--primary-color)
   }
-      
+  .popular-foods__catalogue {
+    margin-top: 64px;  
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 56px;
+  }
+        
