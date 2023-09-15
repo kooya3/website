@@ -127,6 +127,13 @@
     height: 24px;
     object-fit: contain;
   }
-  
+
+  .popular-foods__card-rating p {
+    font-size: 20px; 
+    font-weight: 300;
+    font-family: var(--plus-jakarta-sans);
+    color: #fff;
+  }
+    
   
   
