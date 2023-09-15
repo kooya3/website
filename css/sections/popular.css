@@ -122,6 +122,11 @@
     align-items: center;
     gap: 8px;
   }
-    
+  .popular-foods__card-rating img {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+  }
+  
   
   
