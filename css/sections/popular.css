@@ -87,4 +87,15 @@
     object-fit: contain;  
     margin-left: 21px;
   }
+  .popular-foods__card {
+    padding: 38px;
+    min-width: 260px;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    flex-direction: column;  
+    border-radius: 36px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
   
