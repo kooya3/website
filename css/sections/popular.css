@@ -156,5 +156,9 @@
     color: var(--black-500);
     font-size: 32px;
   }
+  .popular-foods__card.active-card .popular-foods__card-rating img {
+    width: 32px;
+    height: 32px;
+  }
   
   
