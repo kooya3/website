@@ -147,4 +147,9 @@
     min-width: 340px;
   }
   
+  .popular-foods__card.active-card .popular-foods__card-image {
+  width: 214px;
+  height: 160px;
+  }
+
   
