@@ -135,5 +135,11 @@
     color: #fff;
   }
     
+  .popular-foods__card-price {
+    font-size: 20px; 
+    font-weight: 500;
+    font-family: var(--plus-jakarta-sans);
+    color: #fff;
+  }
   
   
