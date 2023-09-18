@@ -1,0 +1,9 @@
+.footer {
+    width: 100%;
+    padding: 20px 40px;
+    background: var(--color-white);
+    flex-wrap: wrap;
+    gap: 20px;  
+    overflow: hidden;
+  }
+  
