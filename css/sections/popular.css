@@ -164,5 +164,8 @@
     font-size: 24px;
     color: var(--gray-100);
   }
-  
+  .popular-foods__card.active-card .popular-foods__card-price {
+    font-size: 24px;
+    color: var(--secondary-color)
+  }
   
