@@ -141,5 +141,10 @@
     font-family: var(--plus-jakarta-sans);
     color: #fff;
   }
+
+  .popular-foods__card.active-card {
+    background: #fff;
+    min-width: 340px;
+  }
   
   
