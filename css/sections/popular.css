@@ -152,4 +152,9 @@
   height: 160px;
   }
 
+  .popular-foods__card.active-card .popular-foods__card-title {
+    color: var(--black-500);
+    font-size: 32px;
+  }
+  
   
