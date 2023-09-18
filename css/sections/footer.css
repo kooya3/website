@@ -12,7 +12,10 @@
     font-family: var(--playfair-display);
     text-transform: uppercase;
     color: var(--secondary-color);
-  
     cursor: pointer;
+  }
+  
+  .footer__logo span {
+    color: var(--primary-color)
   }
   
