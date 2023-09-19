@@ -28,4 +28,6 @@
   gap: 64px;
 }
 
-  
+  .footer ul:last-child {
+  gap: 32px;
+}
