@@ -18,4 +18,14 @@
   .footer__logo span {
     color: var(--primary-color)
   }
+
+.footer ul {
+  list-style: none;
+
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 64px;
+}
+
   
