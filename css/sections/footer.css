@@ -45,3 +45,10 @@
   background-color: var(--secondary-color);
   border-radius: 100%;
 }
+
+.footer__social li img {
+  width: 45%;
+  height: 45%;
+
+  object-fit: contain;
+}
