@@ -41,3 +41,11 @@
 
   cursor: pointer;
 }
+
+.footer__social li {
+  width: 42px;
+  height: 42px;
+
+  background-color: var(--secondary-color);
+  border-radius: 100%;
+}
