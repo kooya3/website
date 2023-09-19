@@ -21,13 +21,11 @@
 
 .footer ul {
   list-style: none;
-
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
   gap: 64px;
 }
-
   .footer ul:last-child {
   gap: 32px;
 }
@@ -38,14 +36,12 @@
   font-family: var(--plus-jakarta-sans);
   text-transform: uppercase;
   color: var(--secondary-color);
-
   cursor: pointer;
 }
 
 .footer__social li {
   width: 42px;
   height: 42px;
-
   background-color: var(--secondary-color);
   border-radius: 100%;
 }
