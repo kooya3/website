@@ -32,6 +32,7 @@ const trendingDrinks = [
     "Kombu-cha",
     "Aojiru",
     "Mugicha",
+    "kirimaku",
     "Konochimaru"
 ]
 
