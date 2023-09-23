@@ -20,7 +20,9 @@ const trendingSushis = [
     'Oshizushi',
     'Temaki Sushi',
     'Uramaki Sushi',
-    'Inari Sushi'
+    'Inari Sushi',
+
+    'Nakamoto umami'
 ];
 
 const trendingDrinks = [
@@ -30,6 +32,8 @@ const trendingDrinks = [
     "Kombu-cha",
     "Aojiru",
     "Mugicha",
+    "kirimaku",
+    "Konochimaru"
 ]
 
 const cards = [
